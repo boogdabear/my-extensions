@@ -201,9 +201,9 @@
 
 .field private static final FORCE_EH_DEFAULT_VALUE:Z = true
 
-.field private static final FORCE_EH_SUMMARY:Ljava/lang/String; = "Force e-hentai to avoid content on exhentai"
+.field private static final FORCE_EH_SUMMARY:Ljava/lang/String; = "Force e-manga to avoid content on exmanga"
 
-.field private static final FORCE_EH_TITLE:Ljava/lang/String; = "Force e-hentai"
+.field private static final FORCE_EH_TITLE:Ljava/lang/String; = "Force e-manga"
 
 .field private static final IGNEOUS_PREF_DEFAULT_VALUE:Ljava/lang/String; = ""
 
@@ -343,7 +343,7 @@
     iput-object p2, p0, Leu/kanade/tachiyomi/extension/all/ehentai/EHentai;->ehLang:Ljava/lang/String;
 
     .line 40
-    const-string p1, "E-Hentai"
+    const-string p1, "E-Manga"
 
     iput-object p1, p0, Leu/kanade/tachiyomi/extension/all/ehentai/EHentai;->name:Ljava/lang/String;
 
@@ -4748,14 +4748,14 @@
     invoke-virtual {v0, v1}, Landroidx/preference/CheckBoxPreference;->setKey(Ljava/lang/String;)V
 
     .line 588
-    const-string v1, "Force e-hentai"
+    const-string v1, "Force e-manga"
 
     check-cast v1, Ljava/lang/CharSequence;
 
     invoke-virtual {v0, v1}, Landroidx/preference/CheckBoxPreference;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 589
-    const-string v1, "Force e-hentai to avoid content on exhentai"
+    const-string v1, "Force e-manga to avoid content on exmanga"
 
     check-cast v1, Ljava/lang/CharSequence;
 
