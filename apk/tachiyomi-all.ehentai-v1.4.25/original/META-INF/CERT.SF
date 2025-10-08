@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+Created-By: 
+SHA-256-Digest-Manifest: 4gJSGuotN050uEhVAgcIB0ibqJm+Kj8oEgwH3RtiOeE=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: StbDvnlbiEgv4D4eKHezNikfVI/Phf74rn9Jmmk5yU4=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: TnOHVm35xaZn+1rr0mwXs0r3tX2pZwp69HnLtNVZtnY=
+
+Name: classes.dex
+SHA-256-Digest: SgLYYh+TjXCDq21+XRmBzoPpF07MgFL7LWL2Yd3EwWk=
+
+Name: res/9w.png
+SHA-256-Digest: f1FSGWIulipgQzhWXWJDtDPTFSkpxAGvcblLbCOoKLk=
+
+Name: res/FS.png
+SHA-256-Digest: XaPkiwQTLVc0v8yg1iJw5WrKuZzA4iKJpsosqsUDd7c=
+
+Name: res/RJ.png
+SHA-256-Digest: CFr1DjqnS5M/tX0h6X23//oDDP3CR44Eun110Av790c=
+
+Name: res/o-.png
+SHA-256-Digest: 3LnjVHJCQPCBH8FNJ2BtCeC/xVCRfY3rGbLfYAIB9z8=
+
+Name: res/yn.png
+SHA-256-Digest: sEmL3IAjaPRsjn//gZFshGojuInSMcMNLNEyiK6uImA=
+
+Name: resources.arsc
+SHA-256-Digest: Zmzxx2AtJVa6zWzhygWDfMzr0cp8zTQeBU+EA49gDbg=
+
